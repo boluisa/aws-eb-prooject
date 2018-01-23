@@ -15,3 +15,4 @@ Then execute the plan using terraform:
 terraform plan   # to show the plan
 terraform apply  # to apply the changes
 ```
+# aws-eb-prooject
